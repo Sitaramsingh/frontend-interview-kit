@@ -40,7 +40,7 @@ Coming soon...
 ## 🧭 Curriculum Overview
 Coming soon...
 
-## ⚙️ JavaScript Core
+## JavaScript Core
 
 Core JavaScript concepts required for building scalable frontend applications
 and clearing frontend interviews.
