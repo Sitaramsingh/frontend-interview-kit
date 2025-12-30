@@ -37,10 +37,7 @@ This repository is designed to:
 ## 🚀 Quick Start
 Coming soon...
 
-## 🧭 Curriculum Overview
-Coming soon...
-
-## JavaScript Core – Study Timetable
+## JavaScript  – Study Timetable
 
 | Day | Topics | Focus | Estimated Time |
 |----|------|------|----------------|
