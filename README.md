@@ -11,12 +11,14 @@ This repository is designed to:
 ## 📚 Table of Contents
 
 - [Quick Start](#quick-start)
-- [Curriculum Overview](#curriculum-overview)
-- [Fundamentals: HTML & CSS](#fundamentals-html--css)
+<!-- - [Curriculum Overview](#curriculum-overview) -->
+<!-- - [Fundamentals: HTML & CSS](#fundamentals-html--css) -->
 - [JavaScript Core](#javascript-core)
+- [JavaScript Advance](#javascript-advance)
 - [React & Modern Frameworks](#react--modern-frameworks)
+- [Next js](#nextjs--modern-frameworks)
 - [Design Patterns (JavaScript & React)](#design-patterns-javascript--react)
-- [Data Structures & Algorithms](#data-structures--algorithms)
+<!-- - [Data Structures & Algorithms](#data-structures--algorithms) -->
 - [Frontend System Design](#frontend-system-design)
 - [Testing & QA](#testing--qa)
 - [Accessibility (a11y)](#accessibility-a11y)
@@ -38,11 +40,38 @@ Coming soon...
 ## 🧭 Curriculum Overview
 Coming soon...
 
-## 🎨 Fundamentals: HTML & CSS
-Coming soon...
-
 ## ⚙️ JavaScript Core
-Coming soon...
+## ⚙️ JavaScript Core
+
+Core JavaScript concepts required for building scalable frontend applications
+and clearing frontend interviews.
+
+Topics covered:
+- Execution Context & Call Stack
+- Hoisting & Temporal Dead Zone
+- Scope, Closures & Lexical Environment
+- `this` Keyword & Binding
+- Data Types & Type Coercion
+- Asynchronous JavaScript
+- Event Loop
+- Memory Management & Garbage Collection
+- Objects, Prototypes & Inheritance
+- Arrays & Core Methods
+- ES6+ Features
+- Error Handling & Debugging
+- Immutability & State Updates
+- Shallow vs Deep Copy
+- Equality & Edge Cases
+- Functional Programming Basics
+- Timers & Browser APIs
+- Modules & Bundling Basics
+- Security Basics (Frontend)
+- Performance Fundamentals
+
+
 
 ## ⚛️ React & Modern Frameworks
+Coming soon...
+
+## ⚛️ Next js & Modern Frameworks
 Coming soon...
