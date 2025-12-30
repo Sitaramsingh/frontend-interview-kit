@@ -40,10 +40,37 @@ Coming soon...
 ## 🧭 Curriculum Overview
 Coming soon...
 
+## JavaScript Core – Study Timetable
+
+| Day | Topics | Focus | Estimated Time |
+|----|------|------|----------------|
+| Day 1 | Execution Context & Call Stack<br/>Hoisting & Temporal Dead Zone | Understand how JavaScript executes code and handles variable declarations | 1.5–2 hrs |
+| Day 2 | Scope, Closures & Lexical Environment | Master closures and lexical scoping with real-world examples | 2 hrs |
+| Day 3 | `this` Keyword & Binding<br/>Equality & Edge Cases | Avoid common `this` pitfalls and tricky comparisons | 1.5–2 hrs |
+| Day 4 | Data Types & Type Coercion<br/>Shallow vs Deep Copy | Predict JavaScript behavior and handle object copying safely | 1.5 hrs |
+| Day 5 | Arrays & Core Methods<br/>Functional Programming Basics | Write clean, predictable, and functional-style JavaScript | 1.5–2 hrs |
+| Day 6 | Revision | Review Week 1 concepts and identify weak areas | 1 hr |
+| Day 7 | Asynchronous JavaScript | Understand callbacks, promises, and async/await | 2 hrs |
+| Day 8 | Event Loop | Learn execution order, microtasks, and macrotasks | 1.5 hrs |
+| Day 9 | Timers & Browser APIs | Work confidently with timers and browser APIs | 1–1.5 hrs |
+| Day 10 | Memory Management & Garbage Collection | Prevent memory leaks and understand JS memory lifecycle | 1.5 hrs |
+| Day 11 | Objects, Prototypes & Inheritance | Deep dive into prototype chain and inheritance | 1.5–2 hrs |
+| Day 12 | Revision | Review async, memory, and prototype concepts | 1 hr |
+| Day 13 | ES6+ Features<br/>Modules & Bundling Basics | Use modern JavaScript features and understand modules | 1.5 hrs |
+| Day 14 | Error Handling & Debugging<br/>Immutability & State Updates | Build resilient code and manage state safely | 1.5–2 hrs |
+| Day 15 | Security Basics (Frontend)<br/>Performance Fundamentals | Understand frontend security risks and performance basics | 1–1.5 hrs |
+| Day 16–18 | Final Revision & Practice | Revise all topics and prepare interview explanations | Flexible |
+
+
  ## JavaScript Core
 
 A curated list of core JavaScript topics with recommended learning resources.  
 These concepts form the foundation for modern frontend development and frontend interviews.
+
+### 📘 Primary Learning Resource
+- **javascript.info** – https://javascript.info/  
+  A comprehensive and beginner-to-advanced JavaScript reference.  
+  Contributors are encouraged to prefer this resource when adding new topics.
 
 ### Execution Context & Call Stack
 - Learn: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Execution_context
