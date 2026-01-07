@@ -173,8 +173,6 @@ These concepts form the foundation for modern frontend development and frontend 
 
 ## ⚛️ React & Modern Frameworks
 
-### Table of Contents
-
 <details open>
 <summary>
 Hide/Show table of contents
