@@ -8,7 +8,7 @@ This repository is designed to:
 
 
 
-## 📚 Table of Contents
+### Table of Contents
 
 - [Quick Start](#quick-start)
 <!-- - [Curriculum Overview](#curriculum-overview) -->
@@ -172,6 +172,8 @@ These concepts form the foundation for modern frontend development and frontend 
 
 
 ## ⚛️ React & Modern Frameworks
+
+### Table of Contents
 
 <details open>
 <summary>
